@@ -14,5 +14,6 @@ CSS3 : Feuille de style personnalisée avec utilisation des variables CSS, anima
 JavaScript : Contrôle des interactions utilisateur, navigation, et effets d’animation.
 Three.js : Intégration d’animations en trois dimensions pour l'arrière-plan du site.
 PHP (simulé) : Simulation de l’envoi de formulaire côté serveur avec des protections anti-spam intégrées.
+
 📌 Prérequis
 Aucune installation particulière n'est nécessaire pour explorer ce projet en local. Il suffit de cloner ce dépôt et de lancer index.html dans votre navigateur.
